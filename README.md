@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <div align="center">
   
 <span style="color:#FA58AC">**Kang JJ**</span>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=25&duration=4000&pause=1000&color=F714CC&random=false&width=600&lines=Majoring+in+Computer+Science;3%2B+years+of+coding+experience;To+be+a+great+data+engineer!;Always+studying+data+%26+development)](https://git.io/typing-svg)
 </div>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=EB5EF7&center=true&random=false&width=500&lines=Majoring+in+Computer+Science;3%2B+years+of+coding+experience;To+be+a+great+data+engineer!;Always+studying+data+%26+development" /></a>
+</p>
