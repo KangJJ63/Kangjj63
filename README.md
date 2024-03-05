@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=EB5EF7&center=true&random=false&width=500&lines=Majoring+in+Computer+Science;3%2B+years+of+coding+experience;To+be+a+great+data+engineer!;Always+studying+data+%26+development" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=EB5EF7&center=true&random=false&width=500&lines=Majoring+in+Computer+Science;3%2B+years+of+coding+experience;To+be+a+great+data+engineer!;Always+studying+data+%26+development" /></a>
 </p>
