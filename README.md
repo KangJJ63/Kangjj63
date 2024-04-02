@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kangjj63&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/kangjj63/kangjj63/blob/output/github-contribution-grid-snake.svg)
+
   </div>
   
   ![footer](https://capsule-render.vercel.app/api?type=rect&color=color=0:90D2D8,10:FFECB8,30:F7C297,75:F6A6B2,100:B7DED2&height=80&section=header)
