@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B7DED2,10:F6A6B2,30:F7C297,75:FFECB8,100:90D2D8&height=150&section=header)
 
   <span style="color:#FA58AC">**Kang JJ**</span>
-  
+
   <p align="center">
       <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   </p>
 
 
-
+  **Contact**
+  <br>
+  <br>
   <span>
     <a href="https://kangjj63.github.io">
       <img src="https://img.shields.io/badge/GitHub Blog-181717?style=plastic&logo=GitHub&logoColor=white"/>
@@ -38,17 +40,67 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Email-FA5858?style=plastic&logo=Gmail&logoColor=white"/>
     </a>
   </span>
+<br><br>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwowjs0603)](https://solved.ac/rkdwowjs0603/)
+## Skils
+✨ Platforms & Languages ✨
+<br><br>
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</span>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+</span>
+<br>
+
+🛠 Tools 🛠
+<br><br>
+<span>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</span>
+<br>
+<br>
+<br>
+## BoJ Tier 
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwowjs0603)](https://solved.ac/rkdwowjs0603/)
+<br>
+<br>
+<br>
+## GitHub Archive
+<br>
 
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjj63&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=kangjj63&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kangjj63&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-<!-- My snake -->
-
-![snake gif](https://github.com/Kangjj63/Kangjj63/blob/output/github-contribution-grid-snake.svg)
 
   </div>
   
