@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <!-- My snake -->
 
-![snake gif](https://github.com/kangjj63/kangjj63/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kangjj63/Kangjj63/blob/output/github-contribution-grid-snake.svg)
 
   </div>
   
