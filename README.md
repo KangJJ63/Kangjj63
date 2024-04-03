@@ -27,17 +27,15 @@ Here are some ideas to get you started:
   </p>
 
 
-  **Contact**
-  <br>
-  <br>
+  ### Contact
   <span>
     <a href="https://kangjj63.github.io">
       <img src="https://img.shields.io/badge/GitHub Blog-181717?style=plastic&logo=GitHub&logoColor=white"/>
     </a>
   </span> 
   <span>
-    <a href="mailto:rkdwowjs0603@gmail.com">
-      <img src="https://img.shields.io/badge/Email-FA5858?style=plastic&logo=Gmail&logoColor=white"/>
+    <a href="mailto:kangjj0603@naver.com">
+      <img src="https://img.shields.io/badge/Email-FA5858?style=plastic&logo=Mail.Ru&logoColor=white"/>
     </a>
   </span>
 <br><br>
